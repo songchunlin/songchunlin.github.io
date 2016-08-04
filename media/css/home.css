@@ -90,7 +90,7 @@ text-decoration:underline;
 }
 
 p a {
-border-bottom:1px dashed #bbb;
+border-bottom:0px dashed #bbb;
 }
 
 .container {
