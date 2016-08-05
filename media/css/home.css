@@ -90,7 +90,7 @@ text-decoration:underline;
 }
 
 p a {
-border-bottom:1px dashed #d5d5d5;
+border-bottom:1px solid #dedede;
 }
 
 .container {
