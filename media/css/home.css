@@ -82,6 +82,7 @@ margin:0;
 a {
 color:#4e4e4e;
 text-decoration:none;
+border-bottom: 1px solid #ededed;
 }
 
 a:hover {
