@@ -19,7 +19,7 @@
       colorIncr = colorIncrement (opts.color, range);
     }
     return this.each(function() {
-      weighting = $(this).attr("rel") - lowest -85;
+      weighting = $(this).attr("rel") - lowest;
       if (opts.size) {
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
