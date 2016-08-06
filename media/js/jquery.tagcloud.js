@@ -19,12 +19,12 @@
       colorIncr = colorIncrement (opts.color, range);
     }
     return this.each(function() {
-      weighting = highest - $(this).attr("rel");
+      weighting = $(this).attr("rel") - lowest;
       if (opts.size) {
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
       if (opts.color) {
-        $(this).css({"color": tagColor(opts.color, colorIncr, weighting)});
+        $(this).css({"color": tagColor(colorIncr, opts.color, weighting)});
       }
     });
   };
