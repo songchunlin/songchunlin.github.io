@@ -24,7 +24,7 @@
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
       if (opts.color) {
-        $(this).css({"color": tagColor(opts.color-15, colorIncr+15, weighting)});
+        $(this).css({"color": tagColor(opts.color, colorIncr, weighting)});
       }
     });
   };
@@ -59,7 +59,7 @@
 
   function tagColor (color, increment, weighting) {
     rgb = jQuery.map(toRGB(color.start), function(n, i) {
-      ref = Math.round(n + (increment[i] * weighting));
+      ref = Math.round(n - (increment[i] * weighting));
       if (ref > 255) {
         ref = 255;
       } else {
