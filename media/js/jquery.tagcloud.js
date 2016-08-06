@@ -59,7 +59,7 @@
 
   function tagColor (color, increment, weighting) {
     rgb = jQuery.map(toRGB(color.start), function(n, i) {
-      ref = Math.round(n - (increment[i] * weighting));
+      ref = Math.round(n + (increment[i] * weighting));
       if (ref > 255) {
         ref = 255;
       } else {
