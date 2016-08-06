@@ -24,7 +24,7 @@
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
       if (opts.color) {
-        $(this).css({"color": tagColor(opts.color-85, colorIncr+85, weighting)});
+        $(this).css({"color": tagColor(opts.color-15, colorIncr+15, weighting)});
       }
     });
   };
