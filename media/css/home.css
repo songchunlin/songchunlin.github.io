@@ -8,7 +8,7 @@ h1 {
 font-family: normal, "Source Sans Pro", sans-serif;
   -webkit-font-smoothing:antialiased;
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 2;
   margin-bottom: 14px;
   margin-bottom: 1rem;
@@ -17,10 +17,6 @@ font-family: normal, "Source Sans Pro", sans-serif;
   color: #222222;
 }
 
-.sitename {
-font-size:24px;
-font-weight:700;
-}
 }
 
 html {
@@ -466,8 +462,8 @@ visibility:hidden;
 }
 
 .sitename {
-font-size:40px;
-font-weight:700;
+font-size:48px;
+font-weight:500;
 }
 
 footer,header,nav,.show {
