@@ -531,14 +531,14 @@ float:right;
 	    list-style-type: disc;
 	    list-style-position: inside;
 	    font-size: 1.2em;
-	    line-height: 1.2em;
+	    line-height: 1.5em;
 	    padding: .5em;
 	    margin: 0;
 	}
 	.post ol {
 	    list-style-position: inside;
 	    font-size: 1.2em;
-	    line-height: 1.2em;
+	    line-height: 1.5em;
 	    padding: .5em;
 	    margin: 0;
 	}
