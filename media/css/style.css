@@ -149,7 +149,7 @@ header{
 }
 
 footer{
-  font-size: 12px
+  font-size: smaller;
    padding-bottom:2em;
 }
 
