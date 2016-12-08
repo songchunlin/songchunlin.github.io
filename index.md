@@ -2,9 +2,9 @@
 layout: home
 ---
 
-###**Welcome to Chunlin's homepage!**
+### Welcome to Chunlin's homepage!
 
-Chunlin is a Ph.D. candidate at the [Institute of Mountain Hazards and Environment](http://english.imde.cas.cn/){:target="_blank"}, [Chinese Academy of Sciences](http://english.cas.cn/){:target="_blank"} and the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"}. He studied Hydrology and Water Resources Engineering at [Sichuan University](http://www.scu.edu.cn/en/){:target="_blank"} from 2009 to 2013. After that, he joined the Chengdu-based Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and majored in Physical Geography. His doctoral work is mainly about riverine carbon transport and hydrological processes of  [the Tibetan Plateau](https://en.wikipedia.org/wiki/Tibetan_Plateau){:target="_blank"} and [Yangtze River](https://en.wikipedia.org/wiki/Yangtze){:target="_blank"} upstream. 
+Chunlin is a Ph.D. candidate at the [Institute of Mountain Hazards and Environment](http://english.imde.cas.cn/){:target="_blank"}, [Chinese Academy of Sciences](http://english.cas.cn/){:target="_blank"} and the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"}. He studied Hydrology and Water Resources Engineering at [Sichuan University](http://www.scu.edu.cn/en/){:target="_blank"} from 2009 to 2013. After that, he joined the Chengdu-based Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and majored in Physical Geography. His doctoral work is mainly about riverine carbon transport and hydrological processes of the [Tibetan Plateau](https://en.wikipedia.org/wiki/Tibetan_Plateau){:target="_blank"} and [Yangtze River](https://en.wikipedia.org/wiki/Yangtze){:target="_blank"} upstream. 
 
 His research interests include riverine water and carbon transport, anthropogenic and natural controls on the river export of carbon, greenhouse gases emissions of aquatic systems, and aged carbon export of permafrost watersheds. He always have a strong drive to learn new things and a lot of enthusiasm for earth science. He is a self-motivated person and delighted to solve problems. See more details in his [**CV**](/files/others/songchunlin_cv.pdf){:target="_blank"}.
 
