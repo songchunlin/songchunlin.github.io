@@ -18,6 +18,8 @@ Chunlin Song is currently a tenure-track Associate Professor at the State Key La
 
 2019, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
 
+2017-2019, Visiting PhD student, Yale University
+
 2013, B.E., Sichuan University
 
 [**Curriculum Vitae**](https://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
@@ -29,6 +31,8 @@ Chunlin Song is currently a tenure-track Associate Professor at the State Key La
 2019-2020，中国科学院水利部成都山地灾害与环境研究所，特别研究助理
 
 2019，中国科学院大学（中科院成都山地所），理学博士
+
+2017-2019，耶鲁大学，联合培养博士生
 
 2013，四川大学，工学学士
 
