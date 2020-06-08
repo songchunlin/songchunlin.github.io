@@ -1,9 +1,32 @@
 ---
 layout: home
 ---
+### Education & Professional Career
 
-### Welcome to Chunlin's homepage!
+2020, tenure-track Associate Professor, Sichuan University
 
-Chunlin Song is currently a special research associate at the [Institute of Mountain Hazards and Environment](http://english.imde.cas.cn/){:target="_blank"}, [Chinese Academy of Sciences](http://english.cas.cn/){:target="_blank"} working on the aquatic carbon cycling in cryosphere ecosystems. He studied hydrology and water resources engineering at [Sichuan University](http://en.scu.edu.cn/){:target="_blank"} from 2009 to 2013. He received a doctorate in physical geography from the Institute of Mountain Hazards and Environment, Chinese Academy of Sciences and the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/) in 2019. He was a visiting PhD student at [School of Forestry and Environmental Studies, Yale University](https://environment.yale.edu/){:target="_blank"} from November 2017 to January 2019. His doctoral work was mainly about riverine carbon cycling and hydrological processes of the [Qinghai-Tibet Plateau](https://en.wikipedia.org/wiki/Tibetan_Plateau){:target="_blank"} rivers and streams, especially for [Yangtze River](https://en.wikipedia.org/wiki/Yangtze){:target="_blank"} headwaters. His research interests include riverine carbon cycle, inland water biogeochemistry, ecohydrology, permafrost carbon-climate feedbacks, permafrost hydrology and hydro-environment etc. See more details in his [**Curriculum Vitae**](https://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}.
+2019-2020, Special Research Associate, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
 
-欢迎访问宋春林的个人网站。我目前为[中科院](http://www.cas.cn/){:target="_blank"}[成都山地所](http://www.imde.ac.cn/){:target="_blank"}特别研究助理，主要关注寒区生态系统水体碳循环。2013 年本科毕业于[四川大学](http://www.scu.edu.cn/){:target="_blank"}水利水电学院水文与水资源工程专业，2019 年在中科院成都山地所获得自然地理学博士学位，2017-2019 年在耶鲁大学做联合培养博士生。博士期间研究方向为青藏高原长江源区河流碳循环和冻土水文过程，研究兴趣包括河流碳循环、内陆水体生物地球化学、冻土水文及水环境、多年冻土的碳反馈效应和生态水文学等。更多信息见我的[**个人履历**](https://songchunlin.net/files/others/songchunlin_cv_cn.pdf){:target="_blank"}。
+2019, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+
+2013, B.E., Sichuan University
+
+###学习及工作经历
+2020年起，四川大学，特聘副研究员
+
+2019-2020年，中国科学院水利部成都山地灾害与环境研究所，特别研究助理
+
+2019年，中国科学院大学（中科院成都山地所），理学博士
+
+2013年，四川大学，工学学士
+
+###About
+Chunlin Song is currently a tenure-track Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/). Song received his B.E. from [Sichuan University](http://en.scu.edu.cn/) and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at [School of Forestry and Environmental Studies, Yale University](https://environment.yale.edu/){:target="_blank"}. His research focuses on aquatic biogeochemistry and  catchment hydrology. His research interests include riverine carbon cycle, permafrost hydrology and hydro-environment, permafrost carbon cycle, and ecohydrology. He is particularly interested in the processes and mechanisms of the transport of terrestrial carbon in cold region waterways under climatic change.
+
+[**Curriculum Vitae**](https://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
+
+
+###个人简介
+我目前为四川大学水利水电学院水力学与山区河流开发保护重点实验室特聘副研究员。2013 和 2019 年分别在四川大学和中国科学院大学（中科院成都山地所）获工学学士和理学博士学位，曾是耶鲁大学联合培养博士生。主要研究领域为水体生物地球化学和流域水文学，研究兴趣包括河流碳循环、冻土水文及水环境、多年冻土碳循环和流域生态水文等。目前主要关注气候变化背景下寒区河流等水体对陆地碳物质的迁移转化过程和机制。
+
+[**个人履历**](https://songchunlin.net/files/others/songchunlin_cv_cn.pdf){:target="_blank"}
