@@ -6,7 +6,7 @@ layout: home
 
 Chunlin Song is currently a tenure-track Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/). Song received his B.E. from the [Sichuan University](http://en.scu.edu.cn/) and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}. His research focuses on aquatic biogeochemistry and cryohydrology in cold regions. His research interests include riverine carbon cycle, watershed biogeochemistry, permafrost hydrology and water environment, permafrost carbon cycle, and watershed ecohydrology. He is particularly interested in the processes and mechanisms of the transport of terrestrial carbon in cold region waterways under climatic change and hydrological processes in permafrost regions.
 
-[**Curriculum Vitae**](https://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
+[**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
 
 ## 个人简介
 
