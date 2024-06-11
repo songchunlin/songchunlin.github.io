@@ -30,7 +30,7 @@ Chunlin Song is currently a tenure-track Associate Professor at the State Key La
 
 
 ## 学习及工作经历
-2023/09 - 今，四川大学，特聘副研究员
+2023/09 - 今，四川大学，副研究员
 
 2020/06 - 2023/08，四川大学，特聘副研究员
 
