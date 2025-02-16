@@ -20,7 +20,7 @@ Chunlin Song is a tenure-track Associate Professor at the State Key Laboratory o
 
 2013/06, B.E., Sichuan University
 
-[**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
+## [**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
 
 
 **基本情况**
