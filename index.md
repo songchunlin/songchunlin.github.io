@@ -4,7 +4,9 @@ layout: home
 
 ## About
 
-Chunlin Song is a tenure-track Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/). Song received his B.E. from the [Sichuan University](http://en.scu.edu.cn/) and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}. Chunlin's research focuses on the hydrology and biogeochemistry of the cryosphere. His research delves into the patterns, processes, mechanisms, and impacts of biogeochemical cycles and hydrological dynamics within cryospheric rivers, streams, ponds, and lakes. He is particularly interested in the transport and transformation of terrestrial carbon in aquatic ecosystems under the influence of climate change in permafrost regions, as well as greenhouse gas emissions from cryospheric inland waters. He also investigates the impacts and mechanisms of permafrost changes on cryohydrological processes. 
+Chunlin Song is an Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/). Song received his B.E. from the [Sichuan University](http://en.scu.edu.cn/) and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}. Chunlin's research focuses on the hydrology and biogeochemistry of the cryosphere. His research delves into the patterns, processes, mechanisms, and impacts of biogeochemical cycles and hydrological dynamics within cryospheric rivers, streams, ponds, and lakes. He is particularly interested in the transport and transformation of terrestrial carbon in aquatic ecosystems under the influence of climate change in permafrost regions, as well as greenhouse gas emissions from cryospheric inland waters. He also investigates the impacts and mechanisms of permafrost changes on cryohydrological processes. 
+
+## [**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
 
 ## Education & Professional Career
 
@@ -20,7 +22,6 @@ Chunlin Song is a tenure-track Associate Professor at the State Key Laboratory o
 
 2013/06, B.E., Sichuan University
 
-## [**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"}
 
 
 **基本情况**
