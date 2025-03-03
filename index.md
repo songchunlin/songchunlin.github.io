@@ -26,7 +26,7 @@ Chunlin Song is an Associate Professor at the State Key Laboratory of Hydraulics
 
 **基本情况**
 
-宋春林，现任副研究员，硕士生导师。中国科学院与耶鲁大学联合培养博士。主要从事寒区水文生物地球化学领域的研究工作，结合野外观测、室内实验、同位素、尺度上推、统计模型等方法研究寒区河湖水域生态系统生物地球化学循环的格局、过程、机制和影响。近期研究兴趣包括气候变化背景下的高寒山区陆源碳在河流等水体中的迁移转化、冰冻圈内陆水体温室气体排放和冻土变化影响下的寒区流域水文过程和变化机制等。主持国家自然科学基金面上项目和青年科学基金项目、国家重点研发计划子课题、四川省自然科学基金青年基金、四川大学“从0到1”创新研究项目等多个科研项目。在Science Advances、Nature Communications、PNAS、Water Resources Research、Global Biogeochemical Cycles、Journal of Hydrology、Environmental Research Letters、Agricultural and Forest Meteorology、Science China-Earth Science等刊物发表论文40余篇，其中第一/（共同）通讯作者论文20余篇，含ESI高被引论文1篇；论文Google Scholar总被引1600余次，H指数18；参编专著2部；获专利4项。获得中国科学院优秀博士学位论文奖、全国大学生水利创新设计大赛优秀指导教师奖等奖项。在青年地学论坛、中国生态水文论坛等重要学术会议担任分会场召集人4次。担任中国冰冻圈科学学会青年工作委员会委员、国际多年冻土青年学者网络组织（PYRN）执行委员和IPCC第六次评估报告评审人等。
+宋春林，现任副研究员，硕士生导师。中国科学院与耶鲁大学联合培养博士。四川大学“双百人才工程”B计划入选者。主要从事寒区水文生物地球化学领域的研究工作，研究兴趣包括寒区水体碳循环、水体温室气体、寒区水沙过程、高寒生态水文等。主持国家自然科学基金面上项目和青年科学基金项目、国家重点研发计划子课题、四川省自然科学基金青年基金、四川大学“从0到1”创新研究项目等科研项目。在Science Advances、Nature Communications、PNAS、Water Resources Research、Global Biogeochemical Cycles、Journal of Hydrology、JGR-Biogeosciences、Environmental Research Letters、Agricultural and Forest Meteorology、Science China Earth Science等刊物发表论文60余篇，其中第一/（共同）通讯作者论文20余篇，含ESI高被引论文1篇；论文Google Scholar总被引1700余次，H指数18；参编专著2部；获专利4项。获得施雅风冰冻圈与环境青年科学家奖、中国科学院百篇优博、全国大学生水利创新设计大赛优秀指导教师奖等奖项。在青年地学论坛、中国生态水文论坛等重要学术会议担任分会场召集人4次。担任中国冰冻圈科学学会青年工作委员会委员、国际多年冻土青年学者网络组织（PYRN）执行委员和IPCC第六次评估报告评审人等。
 
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [342283408@qq.com](mailto:342283408@qq.com)
 
@@ -171,6 +171,9 @@ _学术会议：_
 在读研究生：李宇灏，丁佳丽，顾琼薇；已毕业研究生：叶思露，王莹
 
 **主要荣誉奖励**
+2025年获施雅风冰冻圈与环境青年科学家奖
+
+2025年入选四川大学“双百人才工程”
 
 2023年获全国大学生水利创新设计大赛优秀指导教师奖
 
