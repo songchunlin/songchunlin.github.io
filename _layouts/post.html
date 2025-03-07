@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<h2>
+  <center>{{ page.title }}</center>
+</h2>
+<h5>BY <a href="https://songchunlin.net/">CHUNLIN SONG</a></h5>
+<section class="post">
+{{ content }}
+</section>
+<section class="meta">
+<span class="author">
+  <a>Posted on </a>
+</span>
+<span class="time">
+  
+  <time datetime="{{ page.date | date:"%B %e, %Y" }}">{{ page.date | date:"%B %e, %Y" }}</time>
+</span>
+<br />
+
+{% if page.categories %}
+<span class="categories">
+categories:
+  {% for cat in page.categories %}
+  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+{% if page.tags %}
+<span class="tags">
+  tags: 
+  {% for tag in page.tags %}
+  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+</section>
+{% if page.comments %}
+{% include comments.md %}                                  
+{% endif %}
+
+<script type="text/javascript">
+$(function(){
+  $(document).keydown(function(e) {
+    if (e.target.nodeName.toUpperCase() != 'BODY') return;
+    var url = false;
+        if (e.which == 37 || e.which == 74) {  // Left arrow and J
+            {% if page.previous %}
+        url = '{{ site.url }}{{ page.previous.url }}';
+        {% endif %}
+        }
+        else if (e.which == 39 || e.which == 75) {  // Right arrow and K
+            {% if page.next %}
+        url = '{{ site.url }}{{ page.next.url }}';
+        {% endif %}
+        }
+        if (url) {
+            window.location = url;
+        }
+  });
+})
+</script>
+
+<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script>
+MathJax.Hub.Config({
+    tex2jax: {
+		skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+	}
+});
+MathJax.Hub.Queue(function() {
+	var all = MathJax.Hub.getAllJax(), i;
+	for(i=0; i < all.length; i += 1) {
+		all[i].SourceElement().parentNode.className += ' has-jax';
+	}
+});
+</script>
