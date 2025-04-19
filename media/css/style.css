@@ -273,18 +273,6 @@ h1 {
         border-style: none;
 	}
 
-h1:hover {
-	    color:#17202a;
-	    text-decoration:none
-	    -webkit-opacity: 1;
-	    -moz-opacity: 1;
-	    opacity: 1;
-	    -webkit-transition: all 2s ease;
-	    -moz-transition: all 2s ease;
-	    -ms-transition: all 2s ease;
-	    -o-transition: all 2s ease;
-	    transition: all 2s ease;
-	}
 
 h2{
 font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
