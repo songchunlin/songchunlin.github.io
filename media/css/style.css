@@ -92,7 +92,6 @@ td {
 
 #container{
   width: 100%;
-  max-width: 1200px;
   margin:0 auto;
   display:block;
   padding:0 2em;
@@ -155,6 +154,13 @@ footer{
   padding: 20px 40px;
   flex-wrap: nowrap;
   gap: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+header.site-header {
+  width: 100%;
+  background-color: white; /* optional: makes the header visible over background */
 }
 
 .site-title {
