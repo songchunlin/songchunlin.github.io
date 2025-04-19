@@ -28,10 +28,6 @@ color:#4e4e4e;
 text-decoration:none;
 }
 
-a:hover {
-color:#00A2D1;
-text-decoration:blink;
-}
 
 p a {
 border-bottom:1px solid #dedede;
@@ -210,14 +206,6 @@ background-color:#fff;
 background-color:#17202a;
   text-decoration:none;
   color:#ffffff;
-  -webkit-opacity: 0.30;
-  -moz-opacity: 0.30;
-  opacity: 0.30;
-  -webkit-transition: opacity 3s linear;
-  -moz-transition: opacity 3s linear;
-  -ms-transition: opacity 3s linear;
-  -o-transition: opacity 3s linear;
-  transition: opacity 3s linear;
 }
 
 
@@ -230,8 +218,6 @@ margin-right:0px;
 line-height:36px;
 margin-top:2px;
 margin-bottom:2px;
--webkit-border-radius:0px;
--moz-border-radius:5px;
 border-radius:0px;
 border-bottom: 1px solid #ededed;
 border-top: 1px solid #ededed;
@@ -261,7 +247,6 @@ line-height:30px;
 
 h1 {
 	 font-family: Georgia, Kaiti;
-        -webkit-font-smoothing:antialiased;
         color: #00356b;
         font-size: 3rem;
         font-weight: 700;
@@ -311,26 +296,9 @@ h4{
 	    letter-spacing: .1em;
 	    margin-bottom: 1em;
 	    text-align: center;
-	    -webkit-opacity: 0.30;
-	    -moz-opacity: 0.30;
-	    opacity: 0.30;
-	    -webkit-transition: opacity 3s linear;
-	    -moz-transition: opacity 3s linear;
-	    -ms-transition: opacity 3s linear;
-	    -o-transition: opacity 3s linear;
-	    transition: opacity 3s linear;
 	}
 
-	h5:hover {
-	    -webkit-opacity: 1;
-	    -moz-opacity: 1;
-	    opacity: 1;
-	    -webkit-transition: all 2s ease;
-	    -moz-transition: all 2s ease;
-	    -ms-transition: all 2s ease;
-	    -o-transition: all 2s ease;
-	    transition: all 2s ease;
-	}
+	
 	h5 strong {
 	    color: #56a49f;
 	    font-weight: bold;
