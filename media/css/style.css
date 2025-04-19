@@ -181,35 +181,6 @@ footer{
 }
 
 
-
-.pills {
-zoom:1px;
-}
-
-.pills>li>a {
-margin-right:0px;
-line-height:36px;
-margin-top:2px;
-margin-bottom:2px;
-border-radius:0px;
-border-bottom: 1px solid #ededed;
-border-top: 1px solid #ededed;
-padding:10px 29px;
-}
-
-.pills:before,.pills:after,.pager:before,.pager:after {
-display:table;
-content:"";
-}
-
-.pills:after,.pager:after {
-clear:both;
-}
-
-.pills>li,.pager .previous a,.pull-left {
-float:left;
-}
-
 li,dt,dd {
 line-height:30px;
 }
