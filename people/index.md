@@ -1,10 +1,17 @@
 ---
 layout: page
-title: Publications
+title: People
 ---
 
-##  [**ResearchGate**](https://www.researchgate.net/profile/Chunlin_Song4)
+#硕士研究生
+- 2020级：叶思露
+- 2021级：王莹
+- 2022级：李宇灏
+- 2023级：丁佳丽
+- 2024级：顾琼薇
 
-
-##  [**Google Scholar**](https://scholar.google.com/citations?user=ULVszuoAAAAJ)
+#联合指导
+- 2020级博士：李阳，合作导师：王根绪研究员
+- 2020级博士：王志伟，合作导师：王根绪研究员
+- 2021级博士：李金龙，合作导师：王根绪研究员
 
