@@ -143,11 +143,6 @@ td {
   font-size:12px;
 }
 
-header{
-  padding:.5em 0;
-  font-size:1.3em;
-  border-bottom: 1px solid #ffffff;
-}
 
 footer{
    padding-bottom:2em;
@@ -163,12 +158,12 @@ footer{
 
 .site-title {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .site-title a {
   text-decoration: none;
-  color: #000;
+  color: #00356b;
 }
 
 .nav.pills {
