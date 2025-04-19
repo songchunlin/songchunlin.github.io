@@ -95,8 +95,9 @@ td {
 }
 
 #container{
-  width:640px;
-  margin:2em auto;
+  width: 100%;
+  max-width: 1200px;
+  margin:0 auto;
   display:block;
   padding:0 2em;
 }
@@ -111,7 +112,7 @@ td {
 }
 
 .content img{
-  max-width:600px;
+  max-width:1200px;
   display:block;
   margin:4px auto;
 }
@@ -229,7 +230,7 @@ line-height:30px;
 h1 {
 	 font-family: Georgia, Kaiti;
         -webkit-font-smoothing:antialiased;
-        color: #222222;
+        color: #00356b;
         font-size: 3rem;
         font-weight: 700;
         line-height: 1.5;
