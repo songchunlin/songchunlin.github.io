@@ -148,18 +148,21 @@ footer{
    padding-bottom:2em;
 }
 
-.site-header .header-container {
+.header-container {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   padding: 20px 40px;
-  flex-wrap: wrap; /* allows stacking on small screens */
+  flex-wrap: nowrap;
+  gap: 20px;
 }
 
 .site-title {
   font-size: 2.5em;
   font-weight: bold;
   margin: 0;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .site-title a {
@@ -168,7 +171,9 @@ footer{
 }
 
 .nav-menu {
+  flex-grow: 1;
   display: flex;
+  justify-content: flex-end;
   align-items: center;
 }
 
@@ -178,18 +183,19 @@ footer{
   list-style: none;
   margin: 0;
   padding: 0;
+  flex-wrap: wrap;
 }
 
 .nav.pills li a {
   font-weight: bold;
-  color: #000000;
+  color: black; 
   text-decoration: none;
   border-bottom: 2px solid transparent;
   padding-bottom: 5px;
 }
 
 .nav.pills li a:hover {
-  border-bottom: 2px solid #000000;
+  border-bottom: 2px solid black;
 }
 
 
