@@ -180,28 +180,6 @@ footer{
   font-weight: bold;
 }
 
-.nav {
-font-family:sans-serif;
-font-size:1em;
-text-transform:uppercase;
-margin-left:0;
-margin-bottom:20px;
-margin-top:10px;
-list-style:none;
-text-align:center;
-}
-
-.nav>li>a {
-display:inline;
-background-color:#fff;
-
-}
-
-.nav>li>a:hover {
-background-color:#17202a;
-  text-decoration:none;
-  color:#ffffff;
-}
 
 
 .pills {
