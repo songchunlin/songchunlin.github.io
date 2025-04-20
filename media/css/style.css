@@ -18,7 +18,7 @@ body{
 
 *{
   padding:0;
-  margin: 0;
+  margin: 200 px;
   border:100 px;
   outline:none;
 }
@@ -318,6 +318,7 @@ code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inher
     flex-direction: column;
     align-items: flex-start;
     padding: 20px;
+    width: 100%;
   }
 
   .nav-menu {
