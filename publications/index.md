@@ -6,6 +6,7 @@ title: Publications
 # Publications
 
 ## Selected publications
+(# denotes co-first or equal contribution author; * denotes correspondence author)
 
 - **Song, C.\***_<sup>#</sup>_**,** Liu, S._<sup>#</sup>_, Wang, G.\*_<sup>#</sup>_, Zhang, L., Rosentreter, J. A., Zhao, G., Sun, X., Yao, Y., Mu, C., Sun, S., Hu, Z., Lin, S., Sun, J., Li, Y., Wang, Y., Li, Y., Raymond, P. A., Karlsson, J. (2024). Inland water greenhouse gas emissions offset the terrestrial carbon sink in the northern cryosphere. **_Science Advances_**, **10**(39), eadp0024. <https://doi.org/10.1126/sciadv.adp0024>
 - **Song, C.**, & Wang, G.\* (2021). Land carbon sink of the Tibetan Plateau may be overestimated without accounting for the aquatic carbon export. **_Proceedings of the National Academy of Sciences_**, _118_(46), e2114694118, <https://doi.org/10.1073/pnas.2114694118> (Letter)
