@@ -27,7 +27,7 @@ title: Publications
 
 ## See more:
 
-###  [**Google Scholar**](https://scholar.google.com/citations?user=ULVszuoAAAAJ)
+###  [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ)
 
-###  [**ResearchGate**](https://www.researchgate.net/profile/Chunlin-Song)
+###  [ResearchGate](https://www.researchgate.net/profile/Chunlin-Song)
 

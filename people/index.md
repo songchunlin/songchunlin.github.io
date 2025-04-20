@@ -6,7 +6,7 @@ title: People
 # People
 
 ## Principal Investigator
-Associate Professor Chunlin Song
+Associate Professor, Dr. Chunlin Song
 
 State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
 

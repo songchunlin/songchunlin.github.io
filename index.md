@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Decoding impacts of cryosphere change on its surrounding waters
+# Decoding the impacts of cryosphere change on its surrounding waters
 
 Cryosphere Aqua-Biogeochemistry Lab is led by Associate Professor Chunlin Song at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University. We study the chemistry, physics, and ecology of inland waters in a rapidly changing cryosphere. This research includes the biogeochemistry of inland Waters in the cryosphere region and cold region hydrology.
 
