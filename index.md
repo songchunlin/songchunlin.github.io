@@ -2,10 +2,14 @@
 layout: home
 ---
 
-# Decoding the impacts of cryosphere change on its surrounding waters
-![](http://songchunlin.net/files/images/Yellow_river_source_region.jpg)
+<div style="position: relative; width: 100%;">
+  <img src="http://songchunlin.net/files/images/Yellow_river_source_region.jpg" alt="Yellow River Source Region" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; background-color: rgba(255, 255, 255, 0.4); color: #b4100a; text-align: center; padding: 0.5em; font-size: 2em; font-weight: bold;">
+    Decoding the impacts of cryosphere change on its surrounding waters
+  </div>
+</div>
 
-Cryosphere Aqua-Biogeochemistry Lab is led by Associate Professor Chunlin Song at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University. We study the chemistry, physics, and ecology of inland waters in a rapidly changing cryosphere. This research includes the biogeochemistry of inland Waters in the cryosphere region and cold region hydrology.
+Cryosphere Aqua-Biogeochemistry Lab is led by Associate Professor Chunlin Song at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University. We study the chemistry, physics, and ecology of inland waters in a rapidly changing cryosphere. This research includes the biogeochemistry of inland waters in the cryosphere region and cold region hydrology.
 
 Dr. Chunlin Song is an Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/). Chunlin received his B.E. from the [Sichuan University](http://en.scu.edu.cn/) and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}. 
 
