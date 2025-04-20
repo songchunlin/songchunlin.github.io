@@ -3,12 +3,16 @@ layout: page
 title: People
 ---
 
+# People
+
 ## Principal Investigator
-Chunlin Song
+Associate Professor Chunlin Song
+
+State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
 
 Email: songchunlin@scu.edu.cn
 
-[**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} | [**Official Profile**](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} | [**ORCiD**](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  | [**Google Scholar**](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
+[**CV**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [**Official Profile**](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [**ORCiD**](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [**Google Scholar**](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
 
 ## Doctoral Students
 Yang Li (Joint mentoring with Prof. Genxu Wang)
