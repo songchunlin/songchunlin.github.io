@@ -28,7 +28,7 @@ Qiongwei Gu 顾琼薇
 
 ## Lab Alumni
 ### Doctoral Students
-Zhiwei Wang (王志伟, Joint mentoring with Prof. Genxu Wang)
+Zhiwei Wang 王志伟 (Joint mentoring with Prof. Genxu Wang)
 
 ### Masters Students
 Silu Ye 叶思露
