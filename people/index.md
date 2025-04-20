@@ -13,7 +13,7 @@ State Key Laboratory of Hydraulics and Mountain River Engineering, College of Wa
 
 Email: songchunlin@scu.edu.cn
 
-[**CV**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [**Official Profile**](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [**ORCiD**](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [**Google Scholar**](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
+[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
 
 ## Doctoral Students
 Yang Li 李阳 (Joint mentoring with Prof. Genxu Wang)
