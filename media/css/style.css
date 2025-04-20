@@ -16,11 +16,10 @@ body{
   color: #000000;
 }
 
-*{
-  padding:0;
-  margin: 200 px;
-  border:100 px;
-  outline:none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 a {
@@ -93,7 +92,7 @@ td {
 #container {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0 2em;
+  padding: 2em 2em;
   box-sizing: border-box;
 }
 
