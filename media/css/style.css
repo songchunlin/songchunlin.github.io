@@ -114,7 +114,6 @@ article.content {
 }
 
 .content img{
-  max-width:1000px;
   display:block;
   height: auto;
   margin:0 auto;
