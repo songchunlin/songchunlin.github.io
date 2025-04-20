@@ -3,6 +3,7 @@ layout: page
 title: News
 ---
 
+# Lab News
 - April 2025: Congratulations to Ying Wang, a 2024 graduate, on receiving a fully funded PhD offer from Umeå University in Sweden (co-supervised by Gerard Rocher-Ros and Jan Karlsson)!
 - January 2025: Congratulations to master’s student Ying Wang on her paper on greenhouse gas emissions from mountain rivers in Southwest China being accepted by Journal of Geophysical Research: Biogeosciences!
 - January 2025: Congratulations to master’s student Yuhao Li on his paper on DOC degradation patterns during baseflow periods in permafrost rivers on the Tibetan Plateau being accepted by the Journal of Hydrology!
