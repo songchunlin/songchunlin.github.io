@@ -120,16 +120,21 @@ article.content {
   margin:0 auto;
 }
 
-.full-width-image {
-  width: 100vw;
-  height: auto;
-  display: block;
-  margin: 0;
+.full-width-container {
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.full-width-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
 }
 
 #tag_cloud{
