@@ -92,7 +92,7 @@ td {
 
 #container{
   width: 100%;
-  margin:120px auto;
+  margin:12px auto;
   display:block;
   padding:0;
 }
@@ -102,6 +102,7 @@ td {
 article.content {
   max-width: 1000px; 
   margin: 0 auto; 
+  line-height:1.5;
 }
 
 .main-content {
