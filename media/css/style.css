@@ -98,6 +98,7 @@ td {
 }
 
 .content{
+  max-width:1200px;
   font-size:15px;
   line-height:2;
 
