@@ -104,6 +104,10 @@ td {
 
 }
 
+article.content{
+  max-width:1200px;
+}
+
 .content h1{
   padding:.5em 0;
 }
