@@ -102,12 +102,7 @@ td {
 article.content {
   max-width: 1000px; 
   margin: 0 auto; 
-  font-size: 15px;
-  font-size: 1rem;
-  line-height:1.5;
-  font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 微软雅黑,  sans-serif;
-  text-rendering: optimizeLegibility;
-  color: #000000;
+  line-height:inherit;
 }
 
 
