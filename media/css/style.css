@@ -163,8 +163,6 @@ footer{
 
 header.site-header {
   width: 100%;
-    max-width:1200px;
-
   background-color: white; /* optional: makes the header visible over background */
 }
 
