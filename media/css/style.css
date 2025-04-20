@@ -20,7 +20,10 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  outline:none;
 }
+
+
 
 a {
 color:#4e4e4e;
@@ -92,7 +95,7 @@ td {
 #container {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 2em 2em;
+  padding: 0 2em;
   box-sizing: border-box;
 }
 
