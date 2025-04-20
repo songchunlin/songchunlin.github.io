@@ -92,7 +92,7 @@ td {
 
 #container {
   max-width: 1000px;
-  margin: 120px auto;
+  margin: 0 auto;
   padding: 0 2em;
   box-sizing: border-box;
 }
@@ -332,8 +332,11 @@ code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inher
   }
 
   #container {
-    padding: 0 1em;
-  }
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2em;
+  box-sizing: border-box;
+}
 
   .site-title {
     font-size: 1.8em;
