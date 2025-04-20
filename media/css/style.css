@@ -92,9 +92,9 @@ td {
 
 #container{
   width: 100%;
-  margin:12px auto;
+  margin:20px auto;
   display:block;
-  padding:0;
+  padding:0 2em;
 }
 
 .content, 
