@@ -104,6 +104,13 @@ td {
 
 }
 
+.main-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  box-sizing: border-box;
+}
+
 article.content{
   max-width:1200px;
 }
