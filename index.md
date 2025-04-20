@@ -2,8 +2,10 @@
 layout: home
 ---
 
+# About
+
 <div style="position: relative; width: 100%;">
-  <img src="http://songchunlin.net/files/images/Yellow_river_source_region.jpg" alt="Yellow River Source Region" style="width: 100%; height: auto;">
+  <img class="full-width-image" src="http://songchunlin.net/files/images/Yellow_river_source_region.jpg" alt="Yellow River Source Region" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; background-color: rgba(255, 255, 255, 0.4); color: #b4100a; text-align: center; padding: 0.5em; font-size: 2em; font-weight: bold;">
     Decoding the impacts of cryosphere change on its surrounding waters
   </div>

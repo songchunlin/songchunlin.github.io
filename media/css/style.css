@@ -114,9 +114,22 @@ article.content {
 }
 
 .content img{
-  max-width:100%;
+  width:100%;
   display:block;
-  margin:4px auto;
+  height: auto;
+  margin:0 auto;
+}
+
+.full-width-image {
+  width: 100vw;
+  height: auto;
+  display: block;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 #tag_cloud{
