@@ -14,7 +14,6 @@ body{
   font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 微软雅黑,  sans-serif;
   text-rendering: optimizeLegibility;
   color: #000000;
-  max-width: 1200px;
 }
 
 *{
