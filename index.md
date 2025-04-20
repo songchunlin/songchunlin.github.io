@@ -22,7 +22,7 @@ layout: home
 </div>
 
 <span style="font-family: Georgia, Kaiti; font-size: 1.1rem;">
-Cryosphere Aqua-Biogeochemistry Lab is led by Chunlin Song at Sichuan University, China. Our lab studies the chemistry, physics, and ecology of inland waters in the rapidly changing cryosphere. [This research](https://songchunlin.net/research/) includes the biogeochemistry of inland waters in the cryosphere region and cold region hydrology.</span>
+Cryosphere Hydro-Biogeochemistry Lab is led by Chunlin Song at Sichuan University, China. Our lab studies the chemistry, physics, and ecology of inland waters in the rapidly changing cryosphere. [This research](https://songchunlin.net/research/) includes the biogeochemistry of inland waters in the cryosphere region and cold region hydrology.</span>
 
 <span style="font-family: Georgia, Kaiti; font-size: 1.1rem;">
 Dr. Chunlin Song is an Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/){:target="_blank"}. Chunlin received his B.E. from the [Sichuan University](http://en.scu.edu.cn/){:target="_blank"} and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}. </span>
