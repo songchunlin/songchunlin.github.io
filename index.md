@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# About
+# Homepage
 
 <div class="full-width-container">
   <img class="full-width-image" src="http://songchunlin.net/files/images/Yellow_river_source_region.jpg" alt="Yellow River Source Region">
