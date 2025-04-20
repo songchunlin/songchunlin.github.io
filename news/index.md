@@ -3,11 +3,11 @@ layout: page
 title: News
 ---
 
-
-- 2025年4月，祝贺团队2024届毕业生王莹获得瑞典于默奥大学全奖PhD（合作导师为Gerard Rocher-Ros和Jan Karlsson）！
-- 2025年1月，祝贺硕士生王莹完成的西南山地河流温室气体排放的论文Journal of Geophysical Research: Biogeosciences接收！
-- 2025年1月，祝贺硕士生李宇灏完成的青藏高原冻土河流基流期DOC降解规律的论文被Journal of Hydrology接收！
-- 2024年6月，祝贺王莹硕士顺利毕业！
-- 2024年3月，祝贺博士生李阳完成的青藏高原湖泊甲烷排放时空规律和融冰及植被类型影响的论文被Global Biogeochemical Cycles接收！
-- 2023年9月，祝贺硕士生王莹完成的北半球冰冻圈河流有机碳输出论文被Science of the Total Environment接收！
-- 2023年6月，祝贺团队首届硕士叶思露顺利毕业！
+- April 2025: Congratulations to Ying Wang, a 2024 graduate, on receiving a fully funded PhD offer from Umeå University in Sweden (co-supervised by Gerard Rocher-Ros and Jan Karlsson)!
+- January 2025: Congratulations to master’s student Ying Wang on her paper on greenhouse gas emissions from mountain rivers in Southwest China being accepted by Journal of Geophysical Research: Biogeosciences!
+- January 2025: Congratulations to master’s student Yuhao Li on his paper on DOC degradation patterns during baseflow periods in permafrost rivers on the Tibetan Plateau being accepted by the Journal of Hydrology!
+- June 2024: Congratulations to Ying Wang on successfully completing her master’s degree!
+- March 2024: Congratulations to PhD student Yang Li on his paper on the spatiotemporal patterns of methane emissions from lakes on the Tibetan Plateau, and the effects of ice melt and vegetation types, being accepted by Global Biogeochemical Cycles!
+- January 2024: Congratulations to Jinlong Li on his paper on water and sediment processes on the Tibetan Plateau being accepted by Nature Communications!
+- September 2023: Congratulations to master’s student Ying Wang on her paper on organic carbon export from cryospheric rivers in the Northern Hemisphere being accepted by Science of the Total Environment!
+- June 2023: Congratulations to Silu Ye, the first master’s graduate of the team, on his successful graduation!

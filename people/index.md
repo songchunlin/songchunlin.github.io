@@ -3,17 +3,31 @@ layout: page
 title: People
 ---
 
-**硕士研究生**
+## Principal Investigator
+Chunlin Song
 
-- 2020级：叶思露
-- 2021级：王莹
-- 2022级：李宇灏
-- 2023级：丁佳丽
-- 2024级：顾琼薇
+Email: songchunlin@scu.edu.cn
 
-**联合指导**
+[**Curriculum Vitae**](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} | [**Official Profile**](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} | [**ORCiD**](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  | [**Google Scholar**](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
 
-- 2020级博士：李阳，合作导师：王根绪研究员
-- 2020级博士：王志伟，合作导师：王根绪研究员
-- 2021级博士：李金龙，合作导师：王根绪研究员
+## Doctoral Students
+Yang Li (Joint mentoring with Prof. Genxu Wang)
+
+Jinlong Li (Joint mentoring with Prof. Genxu Wang)
+
+## Masters Students
+Yuhao Li
+
+Jiali Ding
+
+Qiongwei Gu
+
+## Lab Alumni
+### Doctoral Students
+Zhiwei Wang (Joint mentoring with Prof. Genxu Wang)
+
+### Masters Students
+Silu Ye
+
+Ying Wang
 
