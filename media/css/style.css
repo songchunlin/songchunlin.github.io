@@ -103,6 +103,8 @@ article.content {
   max-width: 1000px; 
   margin: 0 auto; 
   line-height:2;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 
@@ -314,3 +316,31 @@ ul {
 }
 
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit; color: inherit}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  #container {
+    padding: 0 15px; /* 外层容器边距 */
+  }
+  
+  .main-content {
+    padding-left: 15px;
+    padding-right: 15px; /* 放大移动端边距 */
+    max-width: 100%;      /* 确保不产生水平滚动 */
+  }
+
+  /* 修复图片溢出 */
+  .content img {
+    max-width: calc(100% - 30px); /* 图片边距同步 */
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+/* 极窄屏幕优化 (iPhone SE等) */
+@media (max-width: 375px) {
+  .main-content {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
