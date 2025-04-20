@@ -15,21 +15,22 @@
   <body>
     <div id="container">
       <div id="main" role="main">
-        <header class="site-header">
+ <header class="site-header">
   <div class="header-container">
     <h1 class="site-title">
       <a href="{{ site.url }}/">Cryosphere Aquatic Biogeochemistry Lab</a>
     </h1>
-    <ul class="nav pills">
-      <li><a title="Research" href="{{ site.url }}/research/">Research</a></li>
-      <li><a title="People" href="{{ site.url }}/people/">People</a></li>
-      <li><a title="Publications" href="{{ site.url }}/publications/">Publications</a></li>
-      <li><a title="News" href="{{ site.url }}/news/">News</a></li>
-    </ul>
+    <nav class="nav-menu">
+      <ul class="nav pills">
+        <li><a href="https://songchunlin.net" target="_blank">Home</a></li>
+        <li><a href="{{ site.url }}/research/">Research</a></li>
+        <li><a href="{{ site.url }}/people/">People</a></li>
+        <li><a href="{{ site.url }}/publications/">Publications</a></li>
+        <li><a href="{{ site.url }}/news/">News</a></li>
+      </ul>
+    </nav>
   </div>
-        </header>
-
-       
+</header>
 
         <article class="content">
         {{ content }}
