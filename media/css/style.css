@@ -166,7 +166,7 @@ footer{
 header.site-header {
   width: 100%;
   background-color: white; /* optional: makes the header visible over background */
-  border-bottom: 1px solid #87cefa;
+  border-bottom: 1px solid #e8e8e8;
   position: relative;
 }
 
