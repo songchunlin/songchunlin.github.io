@@ -18,8 +18,8 @@ body{
 
 *{
   padding:0;
-  margin: 200 px;
-  border:100 px;
+  margin: 0; 
+  border:0;  
   outline:none;
 }
 
@@ -94,33 +94,28 @@ td {
   width: 100%;
   margin:120px auto;
   display:block;
-  padding:0 2em;
+  padding:0;
 }
 
-.content{
-  max-width:1200px;
-  font-size:15px;
-  line-height:2;
-
+.content, 
+.main-content, 
+article.content {
+  max-width: 1000px; 
+  margin: 0 auto; 
 }
 
 .main-content {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 20px 40px;
+  padding: 20px 40px; 
   box-sizing: border-box;
 }
 
-article.content{
-  max-width:1200px;
-}
 
 .content h1{
   padding:.5em 0;
 }
 
 .content img{
-  max-width:1200px;
+  max-width:1000px;
   display:block;
   margin:4px auto;
 }
@@ -195,6 +190,7 @@ header.site-header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-left: auto;
 }
 
 .nav.pills {
@@ -205,6 +201,7 @@ header.site-header {
   margin-top: 1rem;  
   padding: 0;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .nav.pills li a {
