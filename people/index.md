@@ -11,25 +11,27 @@ title: People
 
 State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
 
-2023/09 - present, Associate Professor, Sichuan University
- 
- 2020/06 - 2023/08, tenure-track Associate Professor, Sichuan University
- 
- 2019/07 - 2020/06, Special Research Associate, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
- 
- 2019/06, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
- 
- 2017/11-2019/01, Visiting PhD student, Yale University
- 
- 2013/06, B.E., Sichuan University
- 
-Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
-
-We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred.
 
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [342283408@qq.com](mailto:342283408@qq.com)
 
-[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](http://orcid.org/0000-0003-3627-2350){:target="_blank"} 
+[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](http://orcid.org/0000-0003-3627-2350){:target="_blank"}
+
+Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
+
+2023/09 - present, Associate Professor, Sichuan University
+
+2020/06 - 2023/08, tenure-track Associate Professor, Sichuan University
+ 
+2019/07 - 2020/06, Special Research Associate, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+ 
+2019/06, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+ 
+2017/11-2019/01, Visiting PhD student, Yale University
+ 
+2013/06, B.E., Sichuan University
+
+We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred.
+ 
 
 ## Doctoral Students
 Yang Li 李阳 (Joint mentoring with Prof. Genxu Wang)
@@ -51,4 +53,3 @@ Zhiwei Wang 王志伟 (Joint mentoring with Prof. Genxu Wang)
 Silu Ye 叶思露
 
 Ying Wang 王莹
-
