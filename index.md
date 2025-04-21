@@ -10,10 +10,11 @@ layout: home
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100vw;
-    background-color: rgba(255, 255, 255, 0.4);
-    color: #00356b;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #ffffff;
     text-align: center;
     padding: 0em;
+    font-family: Georgia, Kaiti;
     font-size: 2em;
     font-weight: bold;
   ">
