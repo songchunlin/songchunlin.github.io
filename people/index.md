@@ -7,9 +7,23 @@ title: People
 
 ## Principal Investigator
 <img align="left" src="/files/images/Chunlin_avatar.jpg" style="width: 20%; margin:5px 20px 2px 2px;">
-Chunlin Song 宋春林
+**Associate Professor, Dr. Chunlin Song 宋春林**
 
-Dr. Chunlin Song is an Associate Professor at the State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, [Sichuan University](http://en.scu.edu.cn/){:target="_blank"}. Chunlin received his B.E. from the [Sichuan University](http://en.scu.edu.cn/){:target="_blank"} and his Ph.D. from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/){:target="_blank"} with doctoral training at the [Institute of Mountain Hazards and Environment, Chinese Academy of Sciences](http://english.imde.cas.cn/){:target="_blank"}. He was a visiting PhD student at the [School of the Environment, Yale University](https://environment.yale.edu/){:target="_blank"}.
+State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
+
+2023/09 - present, Associate Professor, Sichuan University
+ 
+ 2020/06 - 2023/08, tenure-track Associate Professor, Sichuan University
+ 
+ 2019/07 - 2020/06, Special Research Associate, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+ 
+ 2019/06, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+ 
+ 2017/11-2019/01, Visiting PhD student, Yale University
+ 
+ 2013/06, B.E., Sichuan University
+ 
+Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
 
 We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred.
 
