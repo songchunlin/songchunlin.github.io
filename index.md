@@ -11,9 +11,9 @@ layout: home
     transform: translate(-50%, -50%);
     width: 100vw;
     background-color: rgba(255, 255, 255, 0.4);
-    color: #b4100a;
+    color: #00356b;
     text-align: center;
-    padding: 0.5em;
+    padding: 0em;
     font-size: 2em;
     font-weight: bold;
   ">
