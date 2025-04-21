@@ -5,10 +5,10 @@ title: News
 
 # Lab News
 - April 2025: Congratulations to Ying Wang on receiving a fully funded PhD offer from Umeå University in Sweden (co-supervised by Assistant Professor Gerard Rocher-Ros and Professor Jan Karlsson)!
-- February 2025: Dr. Chunlin Song receives the "Shi Yafeng Prize for Young Scientists in Cryosphere and Environment".
+- February 2025: Chunlin Song has been awarded the "Shi Yafeng Prize for Young Scientists in Cryosphere and Environment".
 - January 2025: Congratulations to master’s student Ying Wang's paper on greenhouse gas emissions from mountain rivers in Southwest China being accepted by Journal of Geophysical Research: Biogeosciences!
 - January 2025: Congratulations to master’s student Yuhao Li's paper on DOC degradation patterns during baseflow periods in permafrost rivers on the Tibetan Plateau being accepted by the Journal of Hydrology!
-- August 2024: Our paper on greenhouse gas emissions from northern cryosphere inland waters, led by Dr. Chunlin Song, has been accepted by Science Advances!
+- August 2024: Our paper on greenhouse gas emissions from northern cryosphere inland waters, led by Chunlin Song, has been accepted by Science Advances!
 - June 2024: Congratulations to Zhiwei Wang on successfully obtaining his doctoral degree!
 - June 2024: Congratulations to Ying Wang on successfully obtaining her master’s degree!
 - March 2024: Congratulations to PhD student Yang Li's paper on the spatiotemporal patterns and the effects of ice melt and vegetation types on methane emissions from lakes on the Tibetan Plateau, being accepted by Global Biogeochemical Cycles!
