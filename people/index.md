@@ -11,10 +11,9 @@ title: People
 
 State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
 
-
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [342283408@qq.com](mailto:342283408@qq.com)
 
-[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"}
+[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"} · [X](https://x.com/SongChunlin){:target="_blank"}
 
 Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
 
@@ -29,8 +28,6 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 2017/11-2019/01, Visiting PhD student, Yale University
  
 2013/06, B.E., Sichuan University
-
-We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred.
  
 
 ## Doctoral Students
@@ -44,6 +41,9 @@ Yuhao Li 李宇灏
 Jiali Ding 丁佳丽
 
 Qiongwei Gu 顾琼薇
+
+## Join Us!
+We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred. There are vacancies in Fall 2026.
 
 ## Lab Alumni
 ### Doctoral Students
