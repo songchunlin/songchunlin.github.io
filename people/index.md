@@ -23,11 +23,11 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
  
 2019/07 - 2020/06, Special Research Associate, Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
  
-2019/06, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
+2013/09 - 2019/06, Ph.D., University of Chinese Academy of Sciences/Institute of Mountain Hazards and Environment, Chinese Academy of Sciences
  
-2017/11-2019/01, Visiting PhD student, Yale University
+2017/11 - 2019/01, Visiting PhD student, Yale University
  
-2013/06, B.E., Sichuan University
+2009/09 - 2013/06, B.E., Sichuan University
  
 
 ## Doctoral Students
@@ -42,7 +42,7 @@ Jiali Ding 丁佳丽
 
 Qiongwei Gu 顾琼薇
 
-## Join Us!
+## Join Us
 We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred. There are vacancies in Fall 2026.
 
 ## Lab Alumni
