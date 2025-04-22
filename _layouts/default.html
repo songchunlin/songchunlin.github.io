@@ -4,7 +4,13 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="This is Chunlin Song's Lab Website">
     <meta name="author" content="{{ site.author }}" />
-    <title>{{ page.title }} | Cryosphere Hydro-Biogeochemistry Lab</title>
+    <title>
+      {% if page.title %}
+        {{ page.title }} | Cryosphere Hydro-Biogeochemistry Lab
+      {% else %}
+        Cryosphere Hydro-Biogeochemistry Lab
+      {% endif %}
+    </title>    
     <link rel="shortcut icon" href="/favicon.png">
     <link href="{{ site.url }}/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
     <link rel="stylesheet" href="/media/css/style.css">
