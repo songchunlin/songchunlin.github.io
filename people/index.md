@@ -6,7 +6,7 @@ title: People
 # People
 
 ## Principal Investigator
-<img align="left" src="/files/images/thumbs/Chunlin_avatar.jpg" style="width: 20%; margin:5px 20px 2px 2px;">
+<img align="left" src="/files/images/thumbs/Chunlin_avatar.jpg" style="width: 15%; margin:5px 20px 2px 2px;">
 **Associate Professor, Dr. Chunlin Song 宋春林**
 
 State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
