@@ -5,31 +5,7 @@ title: Gallery
 
 # Gallery
 
-<script>
-lightbox.option({
-  'resizeDuration': 200,
-  'wrapAround': true,
-  'fadeDuration': 200,
-  'imageFadeDuration': 200,
-  'alwaysShowNavOnTouchDevices': true,
-  'previousImage': '/files/images/prev.png',
-  'nextImage': '/files/images/next.png'
-});
-</script>
-
-<style>
-/* Override the previous button */
-.lb-prev {
-  background: url('/files/images/prev.png') no-repeat center center;
-  background-size: contain;
-}
-
-/* Override the next button */
-.lb-next {
-  background: url('/files/images/next.png') no-repeat center center;
-  background-size: contain;
-}
-</style>
+Click any photo and use the left and right arrow keys to browse.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
   <a href="/files/images/yrsr_qml.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
