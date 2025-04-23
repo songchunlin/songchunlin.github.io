@@ -74,5 +74,26 @@ title: Gallery
   <img src="/files/images/thumbs/chunlin_egs.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
+<a href="/files/images/yuhao_jinwang.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/yuhao_jinwang.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/lakes_icecover.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/lakes_icecover.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/lake_sample.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/lake_sample.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/pond_sample.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/pond_sample.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/yang_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/yang_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+
   <!-- Continue as needed -->
 </div>
