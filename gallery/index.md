@@ -10,19 +10,19 @@ title: Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
 
  <a href="/files/images/fhs_rts.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/images/fhs_rts.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/images/thumbs/fhs_rts.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
   
   <a href="/files/images/fhs_bubble.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/images/fhs_bubble.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/images/thumbs/fhs_bubble.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
   
   <a href="/files/images/yrsr_qml.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/thumbs/images/yrsr_qml.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/images/thumbs/yrsr_qml.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
   
   <a href="/files/images/yrsr_tth.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/thumbs/images/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/images/thumbs/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
 
 <a href="/files/images/chunlin_field3.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
