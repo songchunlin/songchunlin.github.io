@@ -25,10 +25,6 @@ title: Gallery
     <img src="/files/images/thumbs/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
 
-<a href="/files/images/chunlin_field3.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-  <img src="/files/images/thumbs/chunlin_field3.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
-</a>
-
 <a href="/files/images/chunlin_filed.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
   <img src="/files/images/thumbs/chunlin_filed.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
@@ -68,10 +64,6 @@ title: Gallery
 
 <a href="/files/images/chunlin_iugg.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
   <img src="/files/images/thumbs/chunlin_iugg.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
-</a>
-
-<a href="/files/images/chunlin_egs.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-  <img src="/files/images/thumbs/chunlin_egs.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
 <a href="/files/images/yuhao_jinwang.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
