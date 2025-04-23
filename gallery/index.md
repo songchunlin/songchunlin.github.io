@@ -18,11 +18,11 @@ title: Gallery
   </a>
   
   <a href="/files/images/yrsr_qml.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/images/yrsr_qml.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/thumbs/images/yrsr_qml.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
   
   <a href="/files/images/yrsr_tth.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/images/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+    <img src="/files/thumbs/images/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
 
 <a href="/files/images/chunlin_field3.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
@@ -47,10 +47,6 @@ title: Gallery
 
 <a href="/files/images/fhs_stream.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
   <img src="/files/images/fhs_stream.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
-</a>
-
-<a href="/files/images/kiang.jpeg" data-lightbox="gallery" data-title="" style="width: 24%;">
-  <img src="/files/images/kiang.jpeg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
 <a href="/files/images/ying_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
