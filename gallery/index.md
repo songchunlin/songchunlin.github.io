@@ -29,7 +29,7 @@ title: Gallery
   </a>
   
   <a href="/files/images/yrsr_tth.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-    <img src="/files/images/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: auto;" />
+    <img src="/files/images/yrsr_tth.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 160px; object-fit: cover; display: block;" />
   </a>
 
   <!-- Continue as needed -->
