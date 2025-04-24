@@ -6,7 +6,7 @@ title: People
 # People
 
 ## Principal Investigator
-<img align="left" src="/files/images/thumbs/Chunlin_avatar.jpg" style="width: 15%; margin:5px 20px 2px 2px;">
+<img align="left" src="/files/images/thumbs/Chunlin_avatar.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
 **Associate Professor, Dr. Chunlin Song 宋春林**
 
 State Key Laboratory of Hydraulics and Mountain River Engineering, College of Water Resources and Hydropower, Sichuan University
@@ -31,25 +31,63 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
  
 
 ## Doctoral Students
-Yang Li 李阳 (Joint mentoring with Prof. Genxu Wang)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/jinlong.jpg" style="width: 150px; margin-right: 15px;">
+  Jinlong Li 李金龙<br>
+  PhD Student (2021-present)<br> 
+  Joint mentoring with Prof. Genxu Wang
+</div>
 
-Jinlong Li 李金龙 (Joint mentoring with Prof. Genxu Wang)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/yang.jpg" style="width: 150px; margin-right: 15px;">
+  Yang Li 李阳<br>
+  PhD Student (2020-present)<br>
+  Joint mentoring with Prof. Genxu Wang
+</div>
 
-## Masters Students
-Yuhao Li 李宇灏
 
-Jiali Ding 丁佳丽
+## Master's Students
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/qiongwei.jpg" style="width: 150px; margin-right: 15px;">
+  Qiongwei Gu 顾琼薇<br>
+  Graduate student (2024-present)
+</div>
 
-Qiongwei Gu 顾琼薇
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/female.jpg" style="width: 150px; margin-right: 15px;">
+  Jiali Ding 丁佳丽<br>
+  Graduate student (2023-present)
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin-right: 15px;">
+  Yuhao Li 李宇灏<br>
+  Graduate student (2022-present)
+</div>
 
 ## Join Us
-We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geographic information systems, or remote sensing is preferred. There are vacancies in Fall 2026.
+We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geology, geographic information systems, or remote sensing is preferred. There are vacancies in Fall 2026.
 
 ## Lab Alumni
 ### Doctoral Students
-Zhiwei Wang 王志伟 (Joint mentoring with Prof. Genxu Wang)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+ Zhiwei Wang 王志伟<br> 
+ PhD Student (2020-2024)<br>
+ Joint mentoring with Prof. Genxu Wang
+</div>
+
 
 ### Masters Students
-Silu Ye 叶思露
 
-Ying Wang 王莹
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/ying.jpg" style="width: 150px; margin-right: 15px;">
+  Ying Wang 王莹<br>
+  Graduate student (2021-2024)
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/files/images/thumbs/silu.jpg" style="width: 150px; margin-right: 15px;">
+  Silu Ye 叶思露<br>
+  Graduate student (2020-2023)
+</div>

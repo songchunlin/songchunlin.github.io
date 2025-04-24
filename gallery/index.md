@@ -58,12 +58,24 @@ title: Gallery
   <img src="/files/images/thumbs/chunlin_yang.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
-<a href="/files/images/ying_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
-  <img src="/files/images/thumbs/ying_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+<a href="/files/images/sw_stream_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/sw_stream_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/tplake_boat.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/tplake_boat.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
 <a href="/files/images/team_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
   <img src="/files/images/thumbs/team_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/fhs_winter_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/fhs_winter_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+</a>
+
+<a href="/files/images/yuhao_field.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+  <img src="/files/images/thumbs/yuhao_field.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
 </a>
 
 
