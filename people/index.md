@@ -50,19 +50,19 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/qiongwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Qiongwei Gu 顾琼薇<br>
-  Graduate student (2024-present)
+  Graduate Student (2024-present)
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/female.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Jiali Ding 丁佳丽<br>
-  Graduate student (2023-present)
+  Graduate Student (2023-present)
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yuhao Li 李宇灏<br>
-  Graduate student (2022-present)
+  Graduate Student (2022-present)
 </div>
 
 ## Join Us
@@ -83,11 +83,11 @@ We accept one master's student and one doctoral student each year. A background 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/ying.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Ying Wang 王莹<br>
-  Graduate student (2021-2024)
+  Graduate Student (2021-2024)
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/silu.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Silu Ye 叶思露<br>
-  Graduate student (2020-2023)
+  Graduate Student (2020-2023)
 </div>
