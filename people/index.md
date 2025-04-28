@@ -71,7 +71,7 @@ We accept one master's student and one doctoral student each year. A background 
 ## Lab Alumni
 ### Doctoral Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+<img align="left" src="/files/images/zhiwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
  Zhiwei Wang 王志伟<br> 
  PhD Student (2020-2024)<br>
  Joint mentoring with Prof. Genxu Wang
