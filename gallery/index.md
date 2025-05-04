@@ -9,6 +9,10 @@ title: Gallery
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
 
+<a href="/files/images/fhs_2rts.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
+    <img src="/files/images/thumbs/fhs_2rts.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+  </a>
+  
  <a href="/files/images/fhs_rts.jpg" data-lightbox="gallery" data-title="" style="width: 24%;">
     <img src="/files/images/thumbs/fhs_rts.jpg" class="gallery-thumb" loading="lazy" alt="" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
   </a>
