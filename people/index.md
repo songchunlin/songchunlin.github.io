@@ -35,14 +35,16 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   <img align="left" src="/files/images/thumbs/jinlong.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Jinlong Li 李金龙<br>
   PhD Student (2021-present)<br> 
-  Joint mentoring with Prof. Genxu Wang
+  Joint mentoring with Prof. Genxu Wang<br>
+  Email: jinlongli@stu.scu.edu.cn
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yang.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yang Li 李阳<br>
   PhD Student (2020-present)<br>
-  Joint mentoring with Prof. Genxu Wang
+  Joint mentoring with Prof. Genxu Wang<br>
+  Email: liyang6@stu.scu.edu.cn
 </div>
 
 
@@ -54,15 +56,17 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/female.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+  <img align="left" src="/files/images/thumbs/jiali.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Jiali Ding 丁佳丽<br>
-  Graduate Student (2023-present)
+  Graduate Student (2023-present)<br>
+  Email: dingjl@stu.scu.edu.cn
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yuhao Li 李宇灏<br>
-  Graduate Student (2022-present)
+  Graduate Student (2022-present)<br>
+  Email: liyuhao1@stu.scu.edu.cn
 </div>
 
 ## Join Us
