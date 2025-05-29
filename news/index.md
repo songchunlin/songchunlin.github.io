@@ -4,6 +4,7 @@ title: News
 ---
 
 # Lab News
+- May 2025: Congratulations to Yuhao Li on successfully defending his master's thesis!
 - April 2025: Congratulations to Ying Wang on receiving a fully funded PhD offer from Umeå University in Sweden (co-supervised by Assistant Professor Gerard Rocher-Ros and Professor Jan Karlsson)!
 - February 2025: Chunlin Song has been awarded the "Shi Yafeng Prize for Young Scientists in Cryosphere and Environment".
 - January 2025: Congratulations to master’s student Ying Wang's paper on greenhouse gas emissions from mountain rivers in Southwest China being accepted by Journal of Geophysical Research: Biogeosciences!
