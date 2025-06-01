@@ -15,10 +15,10 @@ layout: home
     text-align: center;
     padding: 0em;
     font-family: Georgia, Kaiti;
-    font-size: 2em;
+    font-size: 2.5em;
     font-weight: bold;
   ">
-    Decoding the impacts of cryosphere change on its surrounding waters
+    Decoding the impacts of cryosphere change on inland waters
   </div>
 </div>
 
