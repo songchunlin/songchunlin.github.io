@@ -68,13 +68,6 @@ We accept one master's student and one doctoral student each year. A background 
 ## Lab Alumni
 ### Doctoral Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img align="left" src="/files/images/zhiwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
- Zhiwei Wang 王志伟<br> 
- PhD Student (2020-2024)<br>
- Joint mentoring with Prof. Genxu Wang
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yang.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yang Li 李阳<br>
   PhD Student (2020-2025)<br>
@@ -87,6 +80,14 @@ We accept one master's student and one doctoral student each year. A background 
   PhD Student (2021-2025)<br> 
   Joint mentoring with Prof. Genxu Wang<br>
 </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<img align="left" src="/files/images/zhiwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+ Zhiwei Wang 王志伟<br> 
+ PhD Student (2020-2024)<br>
+ Joint mentoring with Prof. Genxu Wang
+</div>
+
 
 
 ### Masters Students
