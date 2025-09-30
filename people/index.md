@@ -32,7 +32,7 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 
 ## Research Assistant
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/male.png" style="width: 150px; margin:5px 20px 2px 2px;">
+  <img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Hongqiao Chen 陈虹桥<br>
   Research Assistant (2025-present)<br>
   Email: 15760388929@163.com
