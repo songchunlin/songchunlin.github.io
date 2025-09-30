@@ -30,29 +30,28 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 2009/09 - 2013/06, B.E., Sichuan University
  
 
-## Doctoral Students
+## Research Assistant
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/jinlong.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
-  Jinlong Li 李金龙<br>
-  PhD Student (2021-present)<br> 
-  Joint mentoring with Prof. Genxu Wang<br>
-  Email: jinlongli@stu.scu.edu.cn
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/yang.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
-  Yang Li 李阳<br>
-  PhD Student (2020-present)<br>
-  Joint mentoring with Prof. Genxu Wang<br>
-  Email: liyang6@stu.scu.edu.cn
+  <img align="left" src="/files/images/thumbs/male.png" style="width: 150px; margin:5px 20px 2px 2px;">
+  Hongqiao Chen 陈虹桥<br>
+  Research Assistant (2025-present)<br>
+  Email: 15760388929@163.com
 </div>
 
 
 ## Master's Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/mingxuan.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Mingxuan Ran 冉名轩<br>
+  Graduate Student (2025-present)<br>
+  Email: mingxuanran@stu.scu.edu.cn
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/qiongwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Qiongwei Gu 顾琼薇<br>
-  Graduate Student (2024-present)
+  Graduate Student (2024-present)<br>
+  Email: guqiongwei@stu.scu.edu.cn
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -62,12 +61,6 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   Email: dingjl@stu.scu.edu.cn
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
-  Yuhao Li 李宇灏<br>
-  Graduate Student (2022-present)<br>
-  Email: liyuhao1@stu.scu.edu.cn
-</div>
 
 ## Join Us
 We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geology, geographic information systems, or remote sensing is preferred. There are vacancies in Fall 2026.
@@ -81,8 +74,28 @@ We accept one master's student and one doctoral student each year. A background 
  Joint mentoring with Prof. Genxu Wang
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/yang.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Yang Li 李阳<br>
+  PhD Student (2020-2025)<br>
+  Joint mentoring with Prof. Genxu Wang<br>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/jinlong.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Jinlong Li 李金龙<br>
+  PhD Student (2021-2025)<br> 
+  Joint mentoring with Prof. Genxu Wang<br>
+</div>
+
 
 ### Masters Students
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Yuhao Li 李宇灏<br>
+  Graduate Student (2022-2025)<br>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/ying.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
