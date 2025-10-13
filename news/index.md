@@ -4,6 +4,9 @@ title: News
 ---
 
 # Lab News
+- October 2025: Our paper on carbon exchange of Qinghai-Tibet Plateau lakes has been accepted by Communications Earth & Environment. Congratulations to Yang Li!
+- August 2025: Chunlin Song and Jiali Ding attended the AOGS 2025 meeting in Singapore and Chunlin convened the session BG13 "Aquatic Biogeochemical Cycles in Asia Under Climatic and Human Disturbances".
+- July 2025: Chunlin Song attended the BACO-2025 conference held in Busan, Korea and presented a talk titled "Greenhouse gas emissions from northern cryosphere inland waters".
 - May 2025: Congratulations to Yuhao Li on successfully defending his master's thesis! Congratulations to Jinlong Li and Yang Li on successfully defending their doctoral dissertations!
 - April 2025: Congratulations to Ying Wang on receiving a fully funded PhD offer from Umeå University in Sweden (co-supervised by Assistant Professor Gerard Rocher-Ros and Professor Jan Karlsson)!
 - February 2025: Chunlin Song has been awarded the "Shi Yafeng Prize for Young Scientists in Cryosphere and Environment".
