@@ -4,6 +4,8 @@ title: News
 ---
 
 # Lab News
+- May 2026: Chunlin Song attended the EGU26 meeting in Vienna and [gave a talk on temperature dependecen of methane emissions in cryosphere lakes](https://meetingorganizer.copernicus.org/EGU26/EGU26-4659.html) in the session BG4.4 - Dynamics of Greenhouse Gases (CH4, N2O, CO2) in Aquatic Environments.
+- April 2026: Our commentary paper on mitigating peramfrost carbon release, led by Chunlin Song, has been accepted by Science Bulletin.
 - October 2025: Our paper on carbon exchange of Qinghai-Tibet Plateau lakes has been accepted by Communications Earth & Environment. Congratulations to Yang Li!
 - August 2025: Chunlin Song and Jiali Ding attended the AOGS 2025 meeting in Singapore and Chunlin convened the session BG13 "Aquatic Biogeochemical Cycles in Asia Under Climatic and Human Disturbances".
 - July 2025: Chunlin Song attended the BACO-2025 conference held in Busan, Korea and presented a talk titled "Greenhouse gas emissions from northern cryosphere inland waters".
