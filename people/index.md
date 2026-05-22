@@ -34,14 +34,14 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Hongqiao Chen 陈虹桥<br>
-  Research Assistant (2025-present)<br>
+  Research Assistant (2026-present)<br>
   Email: 15760388929@163.com
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/dongyu.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
   Dongyu Xie 谢冬煜<br>
-  Research Assistant (2025-present)<br>
+  Research Assistant (2026-present)<br>
   Email: 15760388929@163.com
 </div>
 

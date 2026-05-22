@@ -11,3 +11,11 @@ Cryospheric inland waters are critical pipes and reactors in the carbon and nutr
 ## Cold Region Hydrology (Cryohydrology)
 
 Climate change and the degradation of the cryosphere are exerting profound influences on hydrological processes, particularly in high-altitude and cold-region environments. This research seeks to understand the impacts and underlying mechanisms of permafrost changes on cryohydrological dynamics. Specifically, we investigate how permafrost thaw and active layer freeze-thaw processes alter the surface and subsurface water pathways and seasonal runoff patterns in cold-region watersheds. We also study the sediment transport and deposition processes in the Qinghai-Tibet Plateau rivers. The changing cryohydrological and sediment processes also affect the biogeochemistry of inland waters in the cryosphere region.
+
+# Research Toolkit
+## Inland water GHG calculations
+
+[https://github.com/songchunlin/Inland-water-GHG-calculations](https://github.com/songchunlin/Inland-water-GHG-calculations)
+
+R script to calculate inland water dissolved greenhouse gas concentrations (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O) and air-water fluxes from raw GC headspace or sensor-collected data. 
+
