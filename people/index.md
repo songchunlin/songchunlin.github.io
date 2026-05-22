@@ -13,7 +13,7 @@ State Key Laboratory of Hydraulics and Mountain River Engineering, College of Wa
 
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [chunlin.song@qq.com](mailto:chunlin.song@qq.com)
 
-[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [𝕏](https://x.com/SongChunlin){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"}
+[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [𝕏](https://x.com/SongChunlin){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"}· [RedNote](https://xhslink.com/m/Ap6jsh8dN3g){:target="_blank"}
 
 Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
 
@@ -30,7 +30,7 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 2009/09 - 2013/06, B.E., Sichuan University
  
 
-## Research Assistant
+## Doctoral Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Hongqiao Chen 陈虹桥<br>
@@ -38,6 +38,12 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   Email: 15760388929@163.com
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/dongyu.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Dongyu Xie 谢冬煜<br>
+  Research Assistant (2025-present)<br>
+  Email: 15760388929@163.com
+</div>
 
 ## Master's Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -63,7 +69,9 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 
 
 ## Join Us
-We accept one master's student and one doctoral student each year. A background in biogeochemistry, geography, hydrology, freshwater science, environmental science, limnology, geology, geographic information systems, or remote sensing is preferred. There are no vacancies at present.
+We usually accept one master's student and one doctoral student each year. A background in remote sensing, geographic information system, geographic science, hydrology and water resources, limnology, geology, or environmental science is preferred. 
+
+There are no vacancies at present.
 
 ## Lab Alumni
 ### Doctoral Students
