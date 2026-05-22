@@ -42,7 +42,7 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   <img align="left" src="/files/images/thumbs/dongyu.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
   Dongyu Xie 谢冬煜<br>
   Research Assistant (2026-present)<br>
-  Email: 15760388929@163.com
+  Email: xdy09876@163.com
 </div>
 
 ## Master's Students
