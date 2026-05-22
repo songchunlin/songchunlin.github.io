@@ -13,7 +13,7 @@ State Key Laboratory of Hydraulics and Mountain River Engineering, College of Wa
 
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [chunlin.song@qq.com](mailto:chunlin.song@qq.com)
 
-[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [𝕏](https://x.com/SongChunlin){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"} · [RedNote](https://xhslink.com/m/Ap6jsh8dN3g){:target="_blank"}
+[CV](http://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [𝕏](https://x.com/SongChunlin){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"}
 
 Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
 
