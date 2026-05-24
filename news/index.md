@@ -4,6 +4,7 @@ title: News
 ---
 
 # Lab News
+- May 2026: Congratulations to Jiali Ding on successfully defending her master’s thesis! 
 - May 2026: Our paper on greenhouse gas emissions from dry riverbeds in the Qinghai-Tibet Plateau permafrost region has been accepted by Inland Waters. Congratulations to Jiali Ding!
 - May 2026: Chunlin Song attended the EGU26 meeting in Vienna from May 3rd to May 9th and [gave a talk on temperature dependence of methane emissions in cryosphere lakes](https://meetingorganizer.copernicus.org/EGU26/EGU26-4659.html) in the session BG4.4 - Dynamics of Greenhouse Gases (CH4, N2O, CO2) in Aquatic Environments.
 - April 2026: Our commentary paper on mitigating permafrost carbon release, led by Chunlin Song, has been accepted by Science Bulletin.
