@@ -34,14 +34,16 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/male.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Hongqiao Chen 陈虹桥<br>
-  Research Assistant (2026-present)<br>
+  PhD student (2026-present)<br>
+  Joint mentoring with Prof. Genxu Wang<br>
   Email: 15760388929@163.com
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/dongyu.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
   Dongyu Xie 谢冬煜<br>
-  Research Assistant (2026-present)<br>
+  PhD student (2026-present)<br>
+  Joint mentoring with Prof. Genxu Wang<br>
   Email: xdy09876@163.com
 </div>
 
@@ -49,21 +51,21 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/mingxuan.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
   Mingxuan Ran 冉名轩<br>
-  Graduate Student (2025-present)<br>
+  Graduate student (2025-present)<br>
   Email: mingxuanran@stu.scu.edu.cn
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/qiongwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Qiongwei Gu 顾琼薇<br>
-  Graduate Student (2024-present)<br>
+  Graduate student (2024-present)<br>
   Email: guqiongwei@stu.scu.edu.cn
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/jiali.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Jiali Ding 丁佳丽<br>
-  Graduate Student (2023-present)<br>
+  Graduate student (2023-present)<br>
   Email: dingjl@stu.scu.edu.cn
 </div>
 
@@ -78,21 +80,21 @@ There are no vacancies at present.
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yang.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yang Li 李阳<br>
-  PhD Student (2020-2025)<br>
+  PhD student (2020-2025)<br>
   Joint mentoring with Prof. Genxu Wang<br>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/jinlong.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Jinlong Li 李金龙<br>
-  PhD Student (2021-2025)<br> 
+  PhD student (2021-2025)<br> 
   Joint mentoring with Prof. Genxu Wang<br>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <img align="left" src="/files/images/zhiwei.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
  Zhiwei Wang 王志伟<br> 
- PhD Student (2020-2024)<br>
+ PhD student (2020-2024)<br>
  Joint mentoring with Prof. Genxu Wang
 </div>
 
@@ -103,17 +105,17 @@ There are no vacancies at present.
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Yuhao Li 李宇灏<br>
-  Graduate Student (2022-2025)<br>
+  Graduate student (2022-2025)<br>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/ying.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Ying Wang 王莹<br>
-  Graduate Student (2021-2024)
+  Graduate student (2021-2024)
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/silu.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
   Silu Ye 叶思露<br>
-  Graduate Student (2020-2023)
+  Graduate student (2020-2023)
 </div>
