@@ -39,14 +39,6 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   Email: 15760388929@163.com
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/dongyu.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
-  Dongyu Xie 谢冬煜<br>
-  PhD student (2026-present)<br>
-  Joint mentoring with Prof. Genxu Wang<br>
-  Email: xdy09876@163.com
-</div>
-
 ## Master's Students
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/mingxuan.jpeg" style="width: 150px; margin:5px 20px 2px 2px;">
