@@ -5,7 +5,7 @@ title: People
 
 # People
 
-## Principal Investigator
+## Early-career Faculty
 <img align="left" src="/files/images/thumbs/Chunlin_avatar.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
 **Associate Professor, Dr. Chunlin Song 宋春林**
 
