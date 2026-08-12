@@ -13,6 +13,7 @@ State Key Laboratory of Hydraulics and Mountain River Engineering, College of Wa
 
 Email: [songchunlin@scu.edu.cn](mailto:songchunlin@scu.edu.cn); [chunlin.song@qq.com](mailto:chunlin.song@qq.com)
 
+[Curriculum Vitae](https://songchunlin.net/files/others/songchunlin_cv.pdf){:target="_blank"} · 
 [Official Profile](https://cwrh.scu.edu.cn/info/1049/2222.htm){:target="_blank"} · [ORCiD](http://orcid.org/0000-0003-3627-2350){:target="_blank"}  · [Google Scholar](https://scholar.google.com/citations?user=ULVszuoAAAAJ){:target="_blank"} · [𝕏](https://x.com/SongChunlin){:target="_blank"} · [Bluesky](https://bsky.app/profile/songchunlin.bsky.social){:target="_blank"}
 
 Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost hydrology, permafrost carbon cycle, watershed ecohydrology.
@@ -54,12 +55,6 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   Email: guqiongwei@stu.scu.edu.cn
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img align="left" src="/files/images/thumbs/jiali.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
-  Jiali Ding 丁佳丽<br>
-  Graduate student (2023-present)<br>
-  Email: dingjl@stu.scu.edu.cn
-</div>
 
 
 ## Join Us
@@ -93,6 +88,11 @@ There are no vacancies at present.
 
 
 ### Masters Students
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" src="/files/images/thumbs/jiali.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
+  Jiali Ding 丁佳丽<br>
+  Graduate student (2023-2026)<br>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img align="left" src="/files/images/thumbs/yuhao.jpg" style="width: 150px; margin:5px 20px 2px 2px;">
