@@ -7,13 +7,16 @@ title: News
 
 ## 2026
 
+### August
+- Our paper on greenhouse gas emissions from cryosphere-influenced reservoirs has been published in *Environmental Science & Technology*. Congratulations to Hongqiao Chen!
+
 ### May
 - Congratulations to Jiali Ding on successfully defending her master’s thesis!
 - Our paper on greenhouse gas emissions from dry riverbeds in the Qinghai–Tibet Plateau permafrost region has been accepted by *Inland Waters*. Congratulations to Jiali Ding!
 - Chunlin Song attended the EGU26 meeting in Vienna from May 3–9 and [presented a talk on the temperature dependence of methane emissions in cryosphere lakes](https://meetingorganizer.copernicus.org/EGU26/EGU26-4659.html) in session BG4.4: *Dynamics of Greenhouse Gases (CH<sub>4</sub>, N<sub>2</sub>O, CO<sub>2</sub>) in Aquatic Environments*.
 
 ### April
-- We are happy to welcome incoming PhD students Hongqiao Chen and Dongyu Xie to join our group this fall.
+- We are happy to welcome incoming PhD students Hongqiao Chen to join our group this fall.
 - Our commentary paper on mitigating permafrost carbon release, led by Chunlin Song, has been accepted by *Science Bulletin*.
 
 
