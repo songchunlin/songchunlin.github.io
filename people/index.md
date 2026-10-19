@@ -37,7 +37,7 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
   Hongqiao Chen 陈虹桥<br>
   PhD student (2026-present)<br>
   Joint mentoring with Prof. Genxu Wang<br>
-  Email: 15760388929@163.com
+  Email: chenhongqiao@stu.scu.edu.cn
 </div>
 
 ## Master's Students
