@@ -60,7 +60,7 @@ Research interest: Riverine carbon cycle, aquatic greenhouse gases, permafrost h
 ## Join Us
 We usually accept one master's student and one doctoral student each year. A background in remote sensing, geographic information system, geographic science, hydrology and water resources, limnology, geology, or environmental science is preferred. 
 
-There are no vacancies at present.
+**There are no master's or PhD student vacancies at present**.
 
 ## Lab Alumni
 ### Doctoral Students
