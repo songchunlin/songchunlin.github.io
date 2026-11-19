@@ -7,12 +7,15 @@ title: News
 
 ## 2026
 
+### November
+- Chunlin's letter paper on cryosphere flood warning has been published in [*Science*](https://doi.org/10.1126/science.ael8929)!
+
 ### August
-- Our paper on greenhouse gas emissions from cryosphere-influenced reservoirs has been published in *Environmental Science & Technology*. Congratulations to Hongqiao Chen!
+- Our paper on greenhouse gas emissions from cryosphere-influenced reservoirs has been published in [*Environmental Science & Technology*](https://doi.org/10.1021/acs.est.6c08337). Congratulations to Hongqiao Chen!
 
 ### May
 - Congratulations to Jiali Ding on successfully defending her master’s thesis!
-- Our paper on greenhouse gas emissions from dry riverbeds in the Qinghai–Tibet Plateau permafrost region has been accepted by *Inland Waters*. Congratulations to Jiali Ding!
+- Our paper on greenhouse gas emissions from dry riverbeds in the Qinghai–Tibet Plateau permafrost region has been accepted by [*Inland Waters*](https://doi.org/10.1080/20442041.2026.2679574). Congratulations to Jiali Ding!
 - Chunlin Song attended the EGU26 meeting in Vienna from May 3–9 and [presented a talk on the temperature dependence of methane emissions in cryosphere lakes](https://meetingorganizer.copernicus.org/EGU26/EGU26-4659.html) in session BG4.4: *Dynamics of Greenhouse Gases (CH<sub>4</sub>, N<sub>2</sub>O, CO<sub>2</sub>) in Aquatic Environments*.
 
 ### April
@@ -23,7 +26,7 @@ title: News
 ## 2025
 
 ### October
-- Our paper on carbon exchange of Qinghai–Tibet Plateau lakes has been accepted by *Communications Earth & Environment*. Congratulations to Yang Li!
+- Our paper on carbon exchange of Qinghai–Tibet Plateau lakes has been accepted by [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-025-02884-z). Congratulations to Yang Li!
 
 ### August
 - Chunlin Song and Jiali Ding attended the AOGS 2025 meeting in Singapore, and Chunlin convened session BG13: *Aquatic Biogeochemical Cycles in Asia Under Climatic and Human Disturbances*.
